@@ -1,0 +1,36 @@
+/* DATEI: format.css */
+body    {background-color: silver;
+        font-family: Arial ;}
+h1{color: red;
+    background-color:yellow;}
+    .links{background-color: silver;
+color:blue ;}
+h2 {color: rgb(0, 4, 252);}
+ul{list-style: circle;}
+.adresse{list-style: none;}
+p {text-align: center;}
+.
+ol{list-style: lower-alpha;}
+div {background-color: yellow;
+    border:solid;
+    width: 200px;
+    border-width: 1px;
+    
+}
+table   {border-style: solid;
+        border-top-color: yellow;
+        border-collapse: collapse;
+        width: 60%;
+} 
+th{border:solid;
+border-color: yellow;
+color:yellow
+}
+tr {border-color: yellow;
+background-color: blue;
+ border:solid;
+}
+td {
+border:solid;
+    background-color: silver;
+    }
